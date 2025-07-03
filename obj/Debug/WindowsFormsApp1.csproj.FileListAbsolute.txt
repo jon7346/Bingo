@@ -1,0 +1,11 @@
+C:\Users\jonat\source\repos\WindowsFormsApp1\Bingo\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jonat\source\repos\WindowsFormsApp1\Bingo\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jonat\source\repos\WindowsFormsApp1\Bingo\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jonat\source\repos\WindowsFormsApp1\Bingo\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\WindowsFormsApp1\Bingo\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\jonat\source\repos\WindowsFormsApp1\Bingo\obj\Debug\WindowsFormsApp1.frmTelaInicial.resources
+C:\Users\jonat\source\repos\WindowsFormsApp1\Bingo\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jonat\source\repos\WindowsFormsApp1\Bingo\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jonat\source\repos\WindowsFormsApp1\Bingo\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\WindowsFormsApp1\Bingo\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jonat\source\repos\WindowsFormsApp1\Bingo\obj\Debug\WindowsFormsApp1.pdb
