@@ -1,11 +1,8 @@
-#Projeto Avaliativo da faculdade, Realizado inteiramente em C# utilzando o framework .net
+# Projeto Avaliativo da faculdade, Realizado inteiramente em C# utilzando o framework .net
 
-## o que utlizamos :
+## O que utlizamos :
 
-  .métodos e funções(Clean code) ✔
-  
-  .Array ✔
-  
-  .Função Random ✔
-
-  .Criação automática de elementos em um Form na sua inicialização ✔
+  ### .Métodos e funções(Clean code) ✔ 📕
+  ### .Array ✔ 🔡
+  ### .Função Random ✔🍀
+  ### .Criação automática de elementos em um Form na sua inicialização ✔ 🧠
